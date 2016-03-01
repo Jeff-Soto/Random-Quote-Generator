@@ -1,0 +1,6 @@
+.container{
+	max-width: 75%;
+}
+.quote, .quoteAuthor{
+	margin-bottom: 15px;
+}
